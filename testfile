@@ -1,1 +1,5 @@
 adding in local
+new changes
+Create new branch with latest version of current branch: git branch feature-1
+Switch to the new branch: git switch feature-1
+Check logs: git log --oneline
